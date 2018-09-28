@@ -1,7 +1,7 @@
 # todos-backend
 
 App Description:
-- this is the backend of todos app, use together with the frontend "redux-react-todos"
+- this is the minimal backend of todos app, use it together with the frontend "redux-react-todos"
 
 Tech Stacks:
 - this node dev server is built express and mongodb
